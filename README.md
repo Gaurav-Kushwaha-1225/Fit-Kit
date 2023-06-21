@@ -49,3 +49,10 @@ Check it out -
   BFP Result Screen                 |   BMI Result Screen        |  TDEE Result Screen
 :-------------------------:|:-------------------------:|:-------------------------:
 ![IMG_20230619_051216 (1)](https://github.com/Gaurav-Kushwaha-1225/Fit-Kit/assets/117214772/ba1779c4-b71f-4fa3-9b8d-d9a5f0461b7a)|![IMG_20230619_051433 (1)](https://github.com/Gaurav-Kushwaha-1225/Fit-Kit/assets/117214772/a2afe56e-3e29-4199-b3ba-dbc348d5559d)|![IMG_20230619_051417 (1)](https://github.com/Gaurav-Kushwaha-1225/Fit-Kit/assets/117214772/8aa46d3a-4888-42fe-91a2-f84f8f7f4764)
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kushwaha-330a39251/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GauravKush1225)
+
